@@ -17,6 +17,3 @@ The dataset used in this study is obtained from the Kaggle data repository and i
 ### Objectives
 The objective of the study is to indicate the most influential parameters that drive the housing price in King County. In this exercise, creative feature engineering and advanced regression techniques will be explored, namely stepwise-type procedures, various forms of transformation and influential point analysis. Patterns found in residual plots and influential points will be evaluated and addressed to gear towards a more adequate model. The model is evaluated on the root mean square error between our predictions and the true value. The expectation is that at least more than one feature will be of relevance to the housing price and we will build a statistical model with adequate measures of R-squared and minimum squared errors of residuals to project the housing price in King Country. Patterns that we extract from this dataset could potentially be extrapolated to future studies in other US areas that have similar features with King County, and be used for those housing price predictions.
 
-### Content:
-
-./Data: The dataset used in this study is obtained from the Kaggle data repository and it contains house sale prices for King County of Washington State in United States, including Seattle.
